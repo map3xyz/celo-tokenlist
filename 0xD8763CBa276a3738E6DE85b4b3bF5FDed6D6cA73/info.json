@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Celo Euro (cEUR) ERC20 Token in Celo Mainnet. Token is implemented as ERC20 smart contract with address"
+  },
+  "id": "e8f32a6e-1643-430c-9644-7aa0336b22a5",
+  "links": {
+    "explorer": "https://explorer.bitquery.io/celo_rc1/token/0xd8763cba276a3738e6de85b4b3bf5fded6d6ca73",
+    "website": "https://celo.org",
+    "twitter": "https://twitter.com/CeloOrg",
+    "telegram": "https://t.me/celoplatform",
+    "github": "https://github.com/celo-org/celo-monorepo"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/celo/assets/celo-tokenlist/0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73/logo.png"
+  },
+  "name": "Celo Euro",
+  "networkCode": "celo",
+  "spam": false,
+  "symbol": "cEUR",
+  "tags": [
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
