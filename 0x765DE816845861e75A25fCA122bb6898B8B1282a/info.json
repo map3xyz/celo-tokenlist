@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Celo Dollar (cUSD) ERC20 Token in Celo Mainnet. Token is implemented as ERC20 smart contract with address"
+  },
+  "id": "6e1bd326-4425-433d-b886-fa066abba8c3",
+  "links": {
+    "explorer": "https://explorer.bitquery.io/celo_rc1/token/0x765de816845861e75a25fca122bb6898b8b1282a",
+    "website": "https://celo.org",
+    "twitter": "https://twitter.com/CeloOrg",
+    "telegram": "https://t.me/celoplatform",
+    "github": "https://github.com/celo-org/celo-monorepo"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/celo-tokenlist/master/0x765DE816845861e75A25fCA122bb6898B8B1282a/logo.png"
+  },
+  "name": "Celo Dollar",
+  "networkCode": "celo",
+  "spam": false,
+  "symbol": "cUSD",
+  "tags": [
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

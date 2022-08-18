@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Multichain Yield Optimizer"
+  },
+  "id": "7519fb66-4711-4882-adde-08c35510f076",
+  "links": {
+    "explorer": "https://explorer.bitquery.io/celo_rc1/token/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+    "website": "https://beefy.finance/",
+    "github": "https://github.com/beefyfinance",
+    "twitter": "https://twitter.com/beefyfinance",
+    "telegram": "https://t.me/beefyannouncement",
+    "coingecko": "https://coingecko.com/en/coins/beefy-finance/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/beefy-finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/celo-tokenlist/master/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C/logo.png"
+  },
+  "name": "beefy.finance",
+  "networkCode": "celo",
+  "spam": false,
+  "symbol": "BIFI",
+  "tags": [
+    "defi",
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

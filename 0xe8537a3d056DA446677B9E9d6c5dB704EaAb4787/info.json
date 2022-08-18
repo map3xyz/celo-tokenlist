@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xe8537a3d056DA446677B9E9d6c5dB704EaAb4787",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Celo Brazilian Real (cREAL) ERC20 Token in Celo Mainnet. Token is implemented as ERC20 smart contract with address"
+  },
+  "id": "2a1ad817-eb42-47f8-8491-ee25b5b3f7c3",
+  "links": {
+    "explorer": "https://explorer.bitquery.io/celo_rc1/token/0xe8537a3d056da446677b9e9d6c5db704eaab4787",
+    "website": "https://celo.org",
+    "twitter": "https://twitter.com/CeloOrg",
+    "telegram": "https://t.me/celoplatform",
+    "github": "https://github.com/celo-org/celo-monorepo"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/celo-tokenlist/master/0xe8537a3d056DA446677B9E9d6c5dB704EaAb4787/logo.png"
+  },
+  "name": "Celo Brazilian Real",
+  "networkCode": "celo",
+  "spam": false,
+  "symbol": "cREAL",
+  "tags": [
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
