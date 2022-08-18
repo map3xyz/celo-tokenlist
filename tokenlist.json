@@ -1,0 +1,87 @@
+{
+  "name": "@Map3/celo-tokenlist",
+  "timestamp": "2022-08-18T14:07:01.197Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "keywords": [
+    "map3 assets"
+  ],
+  "tags": {
+    "wrapped": {
+      "name": "wrapped",
+      "description": "Asset wrapped using wormhole bridge"
+    },
+    "leveraged": {
+      "name": "leveraged",
+      "description": "Leveraged asset"
+    },
+    "bull": {
+      "name": "bull",
+      "description": "Leveraged Bull asset"
+    },
+    "bear": {
+      "name": "bear",
+      "description": "Leveraged Bear asset"
+    },
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset"
+    },
+    "staking": {
+      "name": "staking",
+      "description": "Tokens that can be staked"
+    }
+  },
+  "logoURI": "https://map3.xyz/images/brand/map3-open-graph.png",
+  "tokens": [
+    {
+      "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+      "name": "beefy.finance",
+      "decimals": 18,
+      "symbol": "BIFI",
+      "tags": [
+        "defi",
+        "governance"
+      ]
+    },
+    {
+      "address": "0x74c0C58B99b68cF16A717279AC2d056A34ba2bFe",
+      "name": "SOURCE",
+      "decimals": 18,
+      "symbol": "SOURCE",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
+      "name": "Celo Dollar",
+      "decimals": 18,
+      "symbol": "cUSD",
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "address": "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73",
+      "name": "Celo Euro",
+      "decimals": 18,
+      "symbol": "cEUR",
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "address": "0xe8537a3d056DA446677B9E9d6c5dB704EaAb4787",
+      "name": "Celo Brazilian Real",
+      "decimals": 18,
+      "symbol": "cREAL",
+      "tags": [
+        "stablecoin"
+      ]
+    }
+  ]
+}
