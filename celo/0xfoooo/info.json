@@ -1,0 +1,13 @@
+{
+  "networkCode": "celo",
+  "type": "asset",
+  "name": "foo",
+  "symbol": "faa",
+  "decimals": "33",
+  "color": "#cc6161",
+  "address": "0xfoooo",
+  "description": {},
+  "links": {},
+  "regex": {},
+  "tags": []
+}
