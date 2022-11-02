@@ -7,6 +7,9 @@
     "en": "Celo Brazilian Real (cREAL) ERC20 Token in Celo Mainnet. Token is implemented as ERC20 smart contract with address"
   },
   "id": "33b08983-1cda-421b-8cba-ff1aa441fb1c",
+  "identifiers": {
+    "coinmarketcap": 16385
+  },
   "links": {
     "explorer": "https://explorer.bitquery.io/celo_rc1/token/0xe8537a3d056da446677b9e9d6c5db704eaab4787",
     "website": "https://celo.org",

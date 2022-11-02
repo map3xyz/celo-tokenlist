@@ -7,6 +7,9 @@
     "en": "Celo Dollar (cUSD) ERC20 Token in Celo Mainnet. Token is implemented as ERC20 smart contract with address"
   },
   "id": "9d1158e8-691d-47d0-9d3e-09b92467c99a",
+  "identifiers": {
+    "coinmarketcap": 7236
+  },
   "links": {
     "explorer": "https://explorer.bitquery.io/celo_rc1/token/0x765de816845861e75a25fca122bb6898b8b1282a",
     "website": "https://celo.org",
