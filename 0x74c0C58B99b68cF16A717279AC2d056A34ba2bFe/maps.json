@@ -1,0 +1,15 @@
+[
+  {
+    "verifications": [],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 1
+    },
+    "fromAddress": "0x74c0C58B99b68cF16A717279AC2d056A34ba2bFe",
+    "fromNetwork": "celo",
+    "toAddress": "0x7118057ff0F4Fd0994fb9d2D94de8231d5cca79E",
+    "toNetwork": "ethereum",
+    "type": "coinmarketcap"
+  }
+]
