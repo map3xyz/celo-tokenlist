@@ -1,0 +1,28 @@
+[
+  {
+    "verifications": [],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 1
+    },
+    "fromAddress": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+    "fromNetwork": "celo",
+    "toAddress": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
+    "toNetwork": "smartchain",
+    "type": "coinmarketcap"
+  },
+  {
+    "verifications": [],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 1
+    },
+    "fromAddress": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+    "fromNetwork": "celo",
+    "toAddress": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
+    "toNetwork": "smartchain",
+    "type": "coinmarketcap"
+  }
+]
