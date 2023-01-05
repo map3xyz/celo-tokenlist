@@ -1,6 +1,6 @@
 {
   "name": "@Map3/celo-tokenlist",
-  "timestamp": "2022-08-18T14:07:01.197Z",
+  "timestamp": "2023-01-05T14:58:41.888Z",
   "version": {
     "major": 0,
     "minor": 0,
@@ -38,6 +38,15 @@
   "logoURI": "https://map3.xyz/images/brand/map3-open-graph.png",
   "tokens": [
     {
+      "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
+      "name": "Axelar",
+      "decimals": 6,
+      "symbol": "AXL",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
       "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
       "name": "beefy.finance",
       "decimals": 18,
@@ -72,6 +81,16 @@
       "symbol": "cEUR",
       "tags": [
         "stablecoin"
+      ]
+    },
+    {
+      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+      "name": "Axelar Wrapped USDC",
+      "decimals": 6,
+      "symbol": "axlUSDC",
+      "tags": [
+        "stablecoin",
+        "wrapped"
       ]
     },
     {
